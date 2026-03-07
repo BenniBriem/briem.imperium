@@ -213,7 +213,7 @@
       rgba(0, 0, 0, 0.65)
     ),
     url("../../images/warroom.png") !important;
-  background-size: cover !important;
-  background-position: center !important;
-  background-repeat: no-repeat !important;
+  background-size: cover;
+  background-position: center 35%;
+  background-repeat: no-repeat;
 }
