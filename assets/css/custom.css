@@ -228,7 +228,7 @@
       rgba(0, 0, 0, 0.50),
       rgba(0, 0, 0, 0.62)
     ),
-    url("/images/thebackground.png") !important;
+    url("/briem.imperium/images/thebackground.png") !important;
   background-size: cover !important;
   background-position: center 35% !important;
   background-repeat: no-repeat !important;
